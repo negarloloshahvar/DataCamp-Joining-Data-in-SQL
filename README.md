@@ -9,6 +9,11 @@
 
 ## Chapter 1 -  Introducing Inner Joins
 
+### SQL Relationships:
+      - One-to-many
+      - One-to-one
+      - Many-tomany
+
 ## Chapter 2 -  Outer Joins, Cross Joins and Self Joins
 
 ## Chapter 3 - Set Theory for SQL Joins
