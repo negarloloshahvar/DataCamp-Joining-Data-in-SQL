@@ -29,6 +29,11 @@
 
 ![image](https://user-images.githubusercontent.com/113103161/204110482-2270ff71-7ab0-4b14-984f-ff00acda432d.png)
 
+- CROSS JOIN
+
+![image](https://user-images.githubusercontent.com/113103161/204110870-d06bad41-63f8-4b35-a23e-1eb8cfeebd02.png)
+
+
 
 ## Chapter 3 - Set Theory for SQL Joins
 
